@@ -8,4 +8,3 @@ module.exports =  {
     "bdname" :"cnam_db_fgnf" 
     }
 }
-
